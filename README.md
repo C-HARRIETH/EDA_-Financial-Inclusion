@@ -1,5 +1,5 @@
 # EDA_-Financial-Inclusion
-Figuring out how we can predict which individuals are most likely to have or use a bank account.
+Figuring out how individuals who are most likely to have or use a bank account can be predicted.
 
 
 #### By **CHEBET HARRIETH**
